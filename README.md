@@ -1,4 +1,5 @@
 # random-project-ideas
-thoughts on mostly silly and useless present and future endeavours
+
+Thoughts on things I am currently working on.
 
 It's all in the issues.
