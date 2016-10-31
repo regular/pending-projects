@@ -1,4 +1,4 @@
-# random-project-ideas
+# Pending Projects
 
 Thoughts on things I am currently working on.
 
